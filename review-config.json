@@ -1,0 +1,6 @@
+{
+  "target_users": ["junior-dev-1", "junior-dev-2"],
+  "questions_count": 3,
+  "model": "claude-sonnet-4-20250514",
+  "max_diff_lines": 500
+}
